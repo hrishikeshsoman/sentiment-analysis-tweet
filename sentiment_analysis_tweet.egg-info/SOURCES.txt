@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+sentiment_analysis_tweet.egg-info/PKG-INFO
+sentiment_analysis_tweet.egg-info/SOURCES.txt
+sentiment_analysis_tweet.egg-info/dependency_links.txt
+sentiment_analysis_tweet.egg-info/requires.txt
+sentiment_analysis_tweet.egg-info/top_level.txt

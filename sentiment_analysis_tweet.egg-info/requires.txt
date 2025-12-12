@@ -1,0 +1,6 @@
+dask[dataframe]>=2024.1.0
+pandas>=2.0.0
+
+[dev]
+ruff
+mypy
